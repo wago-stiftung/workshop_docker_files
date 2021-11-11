@@ -7,3 +7,6 @@
 - docker rm / docker rmi
 - docker build --tag --rm -f ./Dockerfile 
 - docker run -it --rm container_name
+
+
+[Dockerfile docs](https://docs.docker.com/engine/reference/builder/)
